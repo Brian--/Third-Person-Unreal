@@ -57,6 +57,7 @@ Build/*
 
 # Starter Content
 Content/StarterContent/*
+Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
 
 # Don't ignore icon files in Build
 !Build/**/*.ico
